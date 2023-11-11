@@ -1,0 +1,16 @@
+{
+  "name": "transaksion_in_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "currency": "^4.1.0",
+    "mongoose": "^6.9.0",
+    "run-rs": "0.7.7"
+  }
+}
